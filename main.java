@@ -7,7 +7,6 @@ import java.util.*;
    public static void main(String args[])
    { 
     System.out.println("Hello, Dcoder!");
-    System.out.println("This is Alone");
     int a=30,b=40;
     float c=72.98f;
     System.out.println(a+b+c);
